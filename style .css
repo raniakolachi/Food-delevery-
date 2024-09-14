@@ -1,0 +1,16 @@
+.input-group {
+    position: relative;
+}
+.input-group input {
+    width: 100%;
+}
+.input-group button {
+    position: absolute;
+    right: 10;
+    top: 4;
+    height: 100%;
+    z-index: 11;
+}
+.main{
+    text-decoration: none!important;
+}
